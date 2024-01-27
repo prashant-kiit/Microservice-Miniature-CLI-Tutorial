@@ -1,1 +1,1 @@
-Download all files in a single folder and run the App.java file using java
+Download all files in a single folder and run the App.java file using java cmd.
