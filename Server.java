@@ -1,4 +1,4 @@
-package Tester;
+package Microservice;
 
 public class Server extends Thread{
     @Override
@@ -21,7 +21,7 @@ class Controller {
 
             if (loopState == 1) {
                 System.out.println("Server looping started...");
-                System.out.println("Press Enter to start Client");
+                System.out.println("Press Anything to start Client");
                 loopState = 0;
             }
 
